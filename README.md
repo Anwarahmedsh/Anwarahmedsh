@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anwarahmedsh
 - 👀 I’m interested in Cyber Security, java
-- 🌱 I’m currently learning Data mining
+- 🌱 I’m currently learning R, HTML, CSS, JAVA SCRIPT,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Anwaralshamrani4@gmail.com
 

@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 👀 I’m interested in Frontend development.
+- 👀 I’m interested in Frontend Development, Cyber Security
   
 - 🌱 I’m currently learning R and java script.
   

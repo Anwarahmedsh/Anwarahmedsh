@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarahmedsh&show_icons=true&locale=en&layout=compact" alt="Anwar Alshamrani" width="250" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarahmedsh&show_icons=true&locale=en" alt="Anwar Alshamrani" width="250" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarahmedsh&show_icons=true&locale=en" alt="Anwar Alshamrani" width="300" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anwarahmedsh&theme=onedark)](https://github.com/anwarahmedsh/github-profile-trophy)
